@@ -1,11 +1,11 @@
 @extends('_layouts.master')
 
-@section('title', 'About')
+@section('title', 'Zu Mir')
 
 @section('content')
     <h1>About</h1>
 
-    <p>My name is {{ $page->owner->name }}</p>
+    <p>Mein Name ist {{ $page->owner->name }}</p>
 
     <h2>Links:</h2>
 

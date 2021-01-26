@@ -1,6 +1,6 @@
 @extends('_layouts.master')
 
-@section('title', 'Contact')
+@section('title', 'Kontakt')
 
 @section('content')
     <h1>Contact</h1>
@@ -17,12 +17,12 @@
         </div>
 
         <div>
-            <label for="message">Message</label><br>
+            <label for="message">Nachricht</label><br>
             <textarea name="message" id="message" required></textarea>
         </div>
 
         <input type="text" name="_gotcha" style="display: none;">
 
-        <input type="submit" name="submit" value="Send">
+        <input type="submit" name="submit" value="Senden">
     </form>
 @endsection
