@@ -102,7 +102,7 @@ $ kubectl create -f gpushare-schd-extender.yaml
 
    Füge volumes hinzu:
 
-   ```yaml
+   ```
    - mountPath: /etc/kubernetes/scheduler-policy-config.json
      name: scheduler-policy-config
      readOnly: true

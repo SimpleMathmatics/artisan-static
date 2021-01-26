@@ -32,7 +32,7 @@
     @include('_partials.share')
 
     @if ($page->comments)
-        @include('_partials.comments')
+        <p>Comments are not enabled for this post.</p>
     @else
         <p>Comments are not enabled for this post.</p>
     @endif
