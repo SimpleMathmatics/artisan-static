@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://big-data-processing.netlify.app/',
+    'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
         'title' => 'Mein Big Data Processing Blog',
         'description' => 'Privater Blog von Julian Bialas.',
