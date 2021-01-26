@@ -1,8 +1,7 @@
 ---
-title: '06 - Code Highlighting'
-date: 2020-05-16
-image: https://res.cloudinary.com/artisanstatic/code.jpg
-comments: false
+title: '01 - GPU-Sharing Über Mehrere Container '
+date: 2021-01-25
+image: https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/gpu-circuit-green_shutterstock_576941419_700x-675x380.jpg
 ---
 
 # GPU-Sharing Über Mehrere Container 
