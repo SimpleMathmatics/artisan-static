@@ -9,9 +9,9 @@ return [
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Julian Bialas',
+        'twitter' => 'SimpleMathmatics',
+        'github' => 'SimpleMathmatics',
     ],
     'services' => [
         'cmsVersion' => '2.10.67',
