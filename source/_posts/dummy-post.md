@@ -106,7 +106,6 @@ $ kubectl create -f gpushare-schd-extender.yaml
    - mountPath: /etc/kubernetes/scheduler-policy-config.json
      name: scheduler-policy-config
      readOnly: true
-     
    - hostPath:
          path: /etc/kubernetes/scheduler-policy-config.json
          type: FileOrCreate

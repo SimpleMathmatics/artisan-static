@@ -2,10 +2,10 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://big-data-processing.netlify.app/',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Mein Big Data Processing Blog',
+        'description' => 'Privater Blog von Julian Bialas.',
         'image' => 'default-share.png',
     ],
     'owner' => [
