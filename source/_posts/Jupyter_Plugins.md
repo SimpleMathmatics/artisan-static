@@ -1,7 +1,7 @@
 ---
 title: '02 - JupyterLab Verbessern'
 date: 2021-01-25
-https://www.tng-project.org/static/data/lab_logo_tng.png
+image: https://www.tng-project.org/static/data/lab_logo_tng.png
 ---
 
 # Ein Intro zu JupyterHub extensions
